@@ -13,7 +13,7 @@ petArray.push("sheep");
 
 console.log(petArray.length);
 
-// question 5
+// question 5 ( when saving in vs code, i get the last comma behind age:5) no erros in inspect-terminal.
 
 var catObject = {
     name: "tommy",
